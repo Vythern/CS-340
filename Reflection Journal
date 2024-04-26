@@ -1,0 +1,29 @@
+How do you write programs that are maintainable, readable, and adaptable? 
+Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.  
+A lot of it is breaking things down into simple steps.  For CRUD, it's as simple as the name implies- C, R, U, D.  When you have a large task to overcome, it's best to plan it out, and tackle it one step at a time.  
+Trying to make a database that does everything that is included in this repo from scratch without considering the smaller components might have led me to do something inefficient.  
+
+What were the advantages of working in this way?  
+It allows you to ensure that your code is good and ready to go each step- you're not debugging a ton of things at once, just a small portion each week.  
+
+How else could you use this CRUD Python module in the future?
+I think that I've learned so much sql in this semester that I don't know if I'll use anything else, to be honest.  It seems to be incredibly common in every class; 
+using a module like the crud one has a ton of applications, I mean, literally any time you need to store a ton of data and access it later, this is useful, and barebones essential for working with it.  
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.  
+I apporach it by first looking at the error log...  If there is something I can fix quickly and easily, do that first.  If I don't know what a bug is, I look it up.  Once you learn what's causing the problem, then 
+you address it, see if you can fix it.  What do you know?  Another bug.  Eventually you stomp them all out and you have a working product though- it's just another way of saying to take things one step at a time, 
+and to ensure that every step of the way you have working code!  
+
+How did your approach to this project differ from previous assignments in other courses?
+I don't think it did, personally.  In fact, my my other CS-360 class, I was basically doing the same thing, writing code for CRUD, except it was for SQLite, and for a mobile application instead.  
+
+What techniques or strategies would you use in the future to create databases to meet other client requests?
+I think my strategy going forwards will be- firstly that I don't need to re-invent the wheel- using what I've learned to solve the problem instead of creating something from scratch.  I don't think that before 
+these classes I would have ever bothered to pick up and learn sql, but now, it's unavoidable to learn it.  I mean, you look at enough stack overflow posts about how to manipulate a database, you'll eventually 
+remember how to do it yourself.  
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+This one is simple- Personally, I don't know about you, but I would never want to sift through all the data at the AAC by hand.  Could you imagine if it was on paper?  In filing cabinets, even if it is really well sorted.  
+It's so much easier to do it with code.  You might still be searching through all those 1000s of animal records instead of having code look through the database for you.  These are perfect opportunites to make
+people's lives easier through programming.  
